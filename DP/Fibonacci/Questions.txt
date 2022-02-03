@@ -1,0 +1,5 @@
+1.) Climbing stairs		https://leetcode.com/problems/climbing-stairs/
+
+2.) Fibonacci		https://leetcode.com/problems/fibonacci-number/
+
+3.) Tribonnaci		https://leetcode.com/problems/n-th-tribonacci-number/
