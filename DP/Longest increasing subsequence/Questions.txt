@@ -1,3 +1,0 @@
-1.) LIS		https://leetcode.com/problems/longest-increasing-subsequence/
-
-2.) Creating a contest		https://codeforces.com/contest/1029/problem/B
