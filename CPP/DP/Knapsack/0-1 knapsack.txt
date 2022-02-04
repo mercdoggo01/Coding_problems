@@ -1,0 +1,4 @@
+Either choose or not choose.
+
+Once selected cannot be selected again.
+

@@ -1,0 +1,6 @@
+Suppose
+a[] = {1,2,3,2,7,10,3,6}
+
+then {1 2 2 7}, {2,310,6} are valid subsequences.
+
+while {6,10,1,2} is not a subsequence.
