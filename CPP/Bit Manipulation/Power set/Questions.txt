@@ -1,0 +1,7 @@
+1. subsets  https://leetcode.com/problems/subsets/
+
+2. subsets-ii
+https://leetcode.com/problems/subsets-ii/
+
+3.)Count Number of Maximum Bitwise-OR subsets
+https://leetcode.com/problems/count-number-of-maximum-bitwise-or-subsets/
