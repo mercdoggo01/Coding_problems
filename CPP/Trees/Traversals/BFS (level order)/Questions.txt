@@ -1,0 +1,7 @@
+1.) Question: https://leetcode.com/problems/binary-tree-level-order-traversal/
+
+2.) Question: https://leetcode.com/problems/binary-tree-level-order-traversal-ii/submissions/
+
+3.) Question: https://leetcode.com/problems/average-of-levels-in-binary-tree/submissions/
+
+4.) Question: https://leetcode.com/problems/maximum-depth-of-binary-tree/submissions/

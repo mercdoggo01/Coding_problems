@@ -1,0 +1,11 @@
+ Types of tree traversals
+DFS & BFS (Depth & Breadth first)
+
+
+DFS:
+1.) Inorder (left right root)
+2.) Pre-order (root left right)
+3.)Post-order (left right root) 
+
+BFS:
+4.) Level order (level wise)
