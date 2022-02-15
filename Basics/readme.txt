@@ -1,1 +1,0 @@
-This directory contains all basic concepts of C++
