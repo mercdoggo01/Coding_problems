@@ -1,0 +1,10 @@
+Questions
+
+1.) Inorder
+ https://leetcode.com/problems/binary-tree-inorder-traversal/
+
+2.) Preorder
+https://leetcode.com/problems/binary-tree-preorder-traversal/
+
+3.) Post
+https://leetcode.com/problems/binary-tree-postorder-traversal/ 
